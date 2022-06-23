@@ -1,6 +1,7 @@
 # string "" or in ''
 # "abc" *3 => abcabcabc
 # len("abc") => 3 (length of characters)
+# String is immutable
 
 text= "Pythons is scriptin  fhfj wff"
 
